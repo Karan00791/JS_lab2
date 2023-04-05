@@ -1,0 +1,54 @@
+body {
+    background-color: #413D3D;
+}
+[id=container] {
+  width: 50vw;
+  background: white;
+  color: #000;
+  margin: 20px auto;
+  overflow: auto;
+  padding: 2.6rem;
+  border: 2px solid #B2967D;
+}
+
+header {
+  text-align: center;
+  border-bottom: #E7D8C9 dashed 1px;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+background-color: #033322;
+font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px 0px;
+}
+
+header p {
+  padding: 0;
+  margin-top: 5px;
+  color: #000;
+}
+
+input[type="submit"] {
+  background: #B2967D;
+  border: 0;
+  color: #fff;
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+[id=results] {
+  margin-top: 1rem;
+}
+
+[id=results] h3 {
+  background: #EEE4E1;
+  padding: 10px;
+  margin: 10px 0;
+  color: #01BBFF;
+    text-align: center;
+    font-size: 30px;
+}
